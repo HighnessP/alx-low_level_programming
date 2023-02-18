@@ -1,4 +1,4 @@
-nt main(void)
+int main(void)
 
 {
 
